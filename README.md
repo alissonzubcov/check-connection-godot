@@ -15,6 +15,7 @@ How to use
 
 ```
 org/godotengine/godot/checkConnection
+```
 
 Sample usage code
 
